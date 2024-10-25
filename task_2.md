@@ -7,3 +7,7 @@ mkdir my_directory
 ```
 mv "Друзья человека" my_directory/
 ```  
+3. Для перехода в директорию:
+```
+cd my_directory
+```
