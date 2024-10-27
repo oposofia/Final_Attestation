@@ -103,14 +103,5 @@ DROP TABLE IF EXISTS donkeys;
 SHOW TABLES;
 ```
 Результат:
-```
-animals
-camels
-cats
-dogs
-donkeys
-hamsters
-home_animals
-horses
-pack_animals
-```
+
+![](https://github.com/oposofia/Final_Attestation/blob/main/Pictures/SHOW%20TABLES.png)
